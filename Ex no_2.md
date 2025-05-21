@@ -15,7 +15,6 @@ To write a program to check whether the attendance is PRESENT using simple if st
 
 ## Program:
 /*
-
 Program to check whether the attendance is PRESENT using simple if statement.
 Developed by: SANTHIYA C
 RegisterNumber: 212223060247
