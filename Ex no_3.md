@@ -10,6 +10,7 @@ To write a C program to find number of years based on principle,rate & simple in
 4.Ensure precision: Use %.2f to format the output neatly.
 5.Terminate program: Complete execution and return from main().
 
+
 ## Program:
 ```
 /*
